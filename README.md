@@ -1,3 +1,6 @@
+Test OOP_5
+[![Build status](https://ci.appveyor.com/api/projects/status/854o5jxi6l588gjv?svg=true)](https://ci.appveyor.com/project/SubHunt/5-oop)
+
 # Домашнее задание к лекции «Классы, наследование»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
